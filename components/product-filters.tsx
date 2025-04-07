@@ -51,7 +51,6 @@ export default function ProductFilters() {
       const categorias = categoriaParam.split(",")
       if (JSON.stringify(categorias) !== JSON.stringify(selectedCategories)) {
         setSelectedCategories(categorias)
-        console.log("Categorias inicializadas:", categorias)
       }
     } else if (selectedCategories.length > 0) {
       setSelectedCategories([])
@@ -62,7 +61,6 @@ export default function ProductFilters() {
       const colecoes = colecaoParam.split(",")
       if (JSON.stringify(colecoes) !== JSON.stringify(selectedCollections)) {
         setSelectedCollections(colecoes)
-        console.log("Coleções inicializadas:", colecoes)
       }
     } else if (selectedCollections.length > 0) {
       setSelectedCollections([])
@@ -74,7 +72,6 @@ export default function ProductFilters() {
       const maxPrice = Number.parseInt(maxPriceParam, 10)
       if (priceRange[0] !== minPrice || priceRange[1] !== maxPrice) {
         setPriceRange([minPrice, maxPrice])
-        console.log("Preço inicializado:", minPrice, maxPrice)
       }
     } else if (priceRange[0] !== 0 || priceRange[1] !== 200) {
       setPriceRange([0, 200])
@@ -87,7 +84,6 @@ export default function ProductFilters() {
 
   // Alternar seleção de categoria
   const toggleCategory = (categoryId: string) => {
-    console.log("Categoria clicada:", categoryId)
     setSelectedCategories((prev) =>
       prev.includes(categoryId) ? prev.filter((id) => id !== categoryId) : [...prev, categoryId],
     )
@@ -95,7 +91,6 @@ export default function ProductFilters() {
 
   // Alternar seleção de coleção
   const toggleCollection = (collectionId: string) => {
-    console.log("Coleção clicada:", collectionId)
     setSelectedCollections((prev) =>
       prev.includes(collectionId) ? prev.filter((id) => id !== collectionId) : [...prev, collectionId],
     )
@@ -121,12 +116,6 @@ export default function ProductFilters() {
 
   // Aplicar filtros
   const applyFilters = () => {
-    console.log("Aplicando filtros:", {
-      categorias: selectedCategories,
-      colecoes: selectedCollections,
-      preco: priceRange,
-    })
-
     // Criar um novo objeto URLSearchParams
     const params = new URLSearchParams()
 
@@ -156,7 +145,6 @@ export default function ProductFilters() {
 
   // Limpar filtros
   const clearFilters = () => {
-    console.log("Limpando todos os filtros")
     setSelectedCategories([])
     setSelectedCollections([])
     setPriceRange([0, 200])
