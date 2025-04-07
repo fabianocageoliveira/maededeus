@@ -33,7 +33,7 @@ export default function Header() {
           <Link href="/" className="flex-shrink-0">
             <div className="relative h-16 w-40 md:w-48">
               <Image
-                src="/images/logo.png"
+                src="/images/logomarca.png"
                 alt="Mãe de Deus Espaço Católico"
                 fill
                 className="object-contain"
@@ -127,7 +127,7 @@ export default function Header() {
                     <Link href="/" className="flex justify-center mb-6">
                       <div className="relative h-20 w-48">
                         <Image
-                          src="/images/logo.png"
+                          src="/images/logomarca.png"
                           alt="Mãe de Deus Espaço Católico"
                           fill
                           className="object-contain"

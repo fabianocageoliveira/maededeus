@@ -12,7 +12,7 @@ export default function Footer() {
           {/* About */}
           <div>
             <div className="relative h-16 w-48 mb-4">
-              <Image src="/images/logo.png" alt="Mãe de Deus Espaço Católico" fill className="object-contain" />
+              <Image src="/images/logomarca.png" alt="Mãe de Deus Espaço Católico" fill className="object-contain" />
             </div>
             <p className="text-gray-600 mb-4">
               Artigos religiosos e decorativos para trazer mais fé e espiritualidade para o seu lar.

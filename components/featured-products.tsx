@@ -13,31 +13,31 @@ import NotificationModal from "@/components/notification-modal"
 const products = [
   {
     id: 1,
-    name: "Quadro Família - É um presente de Deus",
+    name: "Imagem Sagrada Família em Porcelana com Detalhes Dourados",
     price: 89.9,
-    image: "/placeholder.svg?height=400&width=400",
-    href: "/produtos/quadro-familia",
+    image: "/imagem-sagrada-familia-dourada-400px.jpg",
+    href: "/produtos/imagem-sagrada-familia-dourada",
   },
   {
     id: 2,
-    name: "Terço de Madeira com Medalha",
+    name: "Conjunto Nossa Senhora das Graças Azul",
     price: 45.5,
-    image: "/placeholder.svg?height=400&width=400",
-    href: "/produtos/terco-madeira",
+    image: "/conjunto-nossa-senhora-azul-400px.jpg",
+    href: "/produtos/conjunto-nossa-senhora-azul",
   },
   {
     id: 3,
-    name: "Imagem Sagrada Família",
+    name: "Caneca Porcelana - Você é Luz",
     price: 120.0,
-    image: "/placeholder.svg?height=400&width=400",
-    href: "/produtos/imagem-sagrada-familia",
+    image: "/caneca-voce-e-luz-400px.jpg",
+    href: "/produtos/caneca-voce-e-luz",
   },
   {
     id: 4,
-    name: "Divino Espírito Santo Decorativo",
+    name: "Divino Espírito Santo Mandala Decorativo",
     price: 75.9,
-    image: "/placeholder.svg?height=400&width=400",
-    href: "/produtos/divino-espirito-santo",
+    image: "/divino-espirito-santo-mandala-400px.jp",
+    href: "/produtos/divino-espirito-santo-mandala",
   },
 ]
 

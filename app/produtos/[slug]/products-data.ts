@@ -1,7 +1,7 @@
 // Dados dos produtos para uso na página de produto
 export const products = {
   "imagem-sagrada-familia-dourada": {
-    id: 19,
+    id: 1,
     slug: "imagem-sagrada-familia-dourada",
     name: "Imagem Sagrada Família em Porcelana com Detalhes Dourados",
     price: 135.0,
@@ -33,7 +33,7 @@ export const products = {
     ],
   },
   "conjunto-nossa-senhora-azul": {
-    id: 20,
+    id: 2,
     slug: "conjunto-nossa-senhora-azul",
     name: "Conjunto Nossa Senhora das Graças Azul",
     price: 120.0,
@@ -65,7 +65,7 @@ export const products = {
     ],
   },
   "caneca-voce-e-luz": {
-    id: 21,
+    id: 3,
     slug: "caneca-voce-e-luz",
     name: "Caneca Porcelana - Você é Luz",
     price: 39.9,
@@ -97,7 +97,7 @@ export const products = {
     ],
   },
   "divino-mandala": {
-    id: 22,
+    id: 4,
     slug: "divino-mandala",
     name: "Divino Espírito Santo Mandala Decorativo",
     price: 105.0,
@@ -129,7 +129,7 @@ export const products = {
     ],
   },
   "conjunto-anjos": {
-    id: 23,
+    id: 5,
     slug: "conjunto-anjos",
     name: "Conjunto Anjos Decorativos",
     price: 65.0,
@@ -161,7 +161,7 @@ export const products = {
     ],
   },
   "nossa-senhora-luminaria": {
-    id: 24,
+    id: 6,
     slug: "nossa-senhora-luminaria",
     name: "Nossa Senhora Luminária Decorativa",
     price: 85.0,
@@ -193,7 +193,7 @@ export const products = {
     ],
   },
   "terco-sao-miguel": {
-    id: 25,
+    id: 7,
     slug: "terco-sao-miguel",
     name: "Terço São Miguel Arcanjo em Madeira",
     price: 45.0,
@@ -225,7 +225,7 @@ export const products = {
     ],
   },
   "cruz-face-cristo": {
-    id: 26,
+    id: 8,
     slug: "cruz-face-cristo",
     name: "Cruz Face de Cristo em Resina",
     price: 59.9,
