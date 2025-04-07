@@ -53,8 +53,8 @@ export const products = {
     categories: ["imagens", "decoracao"],
     collections: ["nossa-senhora", "espirito-santo"],
     images: [
-      "https://maededeus.vercel.app/public/conjunto-nossa-senhora-azul.jpg",
-      "https://maededeus.vercel.app/public/conjunto-nossa-senhora-azul.jpg",
+      "https://maededeus.vercel.app/public/images/conjunto-nossa-senhora-azul.jpg",
+      "https://maededeus.vercel.app/public/images/conjunto-nossa-senhora-azul.jpg",
     ],
     features: [
       "Conjunto completo com 3 peças",
@@ -85,8 +85,8 @@ export const products = {
     categories: ["utilidades", "presentes"],
     collections: ["canecas"],
     images: [
-      "https://maededeus.vercel.app/public/caneca-voce-e-luz.jpg",
-      "https://maededeus.vercel.app/public/caneca-voce-e-luz.jpg",
+      "https://maededeus.vercel.app/public/images/caneca-voce-e-luz.jpg",
+      "https://maededeus.vercel.app/public/images/caneca-voce-e-luz.jpg",
     ],
     features: [
       "Porcelana de alta qualidade",
@@ -117,8 +117,8 @@ export const products = {
     categories: ["decoracao", "divino-espirito-santo"],
     collections: ["divino-espirito-santo"],
     images: [
-      "https://maededeus.vercel.app/public/divino-espirito-santo-mandala.jpg",
-      "https://maededeus.vercel.app/public/divino-espirito-santo-mandala.jpg",
+      "https://maededeus.vercel.app/public/images/divino-espirito-santo-mandala.jpg",
+      "https://maededeus.vercel.app/public/images/divino-espirito-santo-mandala.jpg",
     ],
     features: [
       "Design exclusivo em formato de mandala",
@@ -149,8 +149,8 @@ export const products = {
     categories: ["decoracao", "anjos"],
     collections: ["anjos"],
     images: [
-      "https://maededeus.vercel.app/public/conjunto-anjos-decorativos.jpg",
-      "https://maededeus.vercel.app/public/conjunto-anjos-decorativos.jpg",
+      "https://maededeus.vercel.app/public/images/conjunto-anjos-decorativos.jpg",
+      "https://maededeus.vercel.app/public/images/conjunto-anjos-decorativos.jpg",
     ],
     features: [
       "Conjunto com 3 anjos decorativos",
@@ -181,8 +181,8 @@ export const products = {
     categories: ["decoracao", "luminarias"],
     collections: ["nossa-senhora"],
     images: [
-      "https://maededeus.vercel.app/public/nossa-senhora-luminaria.jpg",
-      "https://maededeus.vercel.app/public/nossa-senhora-luminaria.jpg",
+      "https://maededeus.vercel.app/public/images/nossa-senhora-luminaria.jpg",
+      "https://maededeus.vercel.app/public/images/nossa-senhora-luminaria.jpg",
     ],
     features: [
       "Luminária decorativa",
@@ -213,8 +213,8 @@ export const products = {
     categories: ["tercos"],
     collections: ["sao-miguel"],
     images: [
-      "https://maededeus.vercel.app/public/terco-sao-miguel-arcanjo.jpg",
-      "https://maededeus.vercel.app/public/terco-sao-miguel-arcanjo.jpg",
+      "https://maededeus.vercel.app/public/images/terco-sao-miguel-arcanjo.jpg",
+      "https://maededeus.vercel.app/public/images/terco-sao-miguel-arcanjo.jpg",
     ],
     features: [
       "Contas de madeira natural",
@@ -245,8 +245,8 @@ export const products = {
     categories: ["decoracao", "cruzes"],
     collections: ["cruzes"],
     images: [
-      "https://maededeus.vercel.app/public/cruz-face-de-cristo.jpg",
-      "https://maededeus.vercel.app/public/cruz-face-de-cristo.jpg",
+      "https://maededeus.vercel.app/public/images/cruz-face-de-cristo.jpg",
+      "https://maededeus.vercel.app/public/images/cruz-face-de-cristo.jpg",
     ],
     features: [
       "Face de Cristo em relevo",
