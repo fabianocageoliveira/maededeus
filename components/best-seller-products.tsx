@@ -16,7 +16,7 @@ const bestSellerProducts = [
     name: "Caneca Porcelana - Você é Luz",
     price: 120.0,
     sales: 87,
-    image: "/public/images/caneca-voce-e-luz-400px.jpg",
+    image: "/images/caneca-voce-e-luz-400px.jpg",
     href: "/produtos/caneca-voce-e-luz",
   },
   {
@@ -24,7 +24,7 @@ const bestSellerProducts = [
     name: "Cruz Face de Cristo em Resina",
     price: 55.9,
     sales: 76,
-    image: "/public/images/cruz-face-de-cristo-400px.jpg",
+    image: "/images/cruz-face-cristo-400px.jpg",
     href: "/produtos/cruz-face-de-cristo",
   },
   {
@@ -32,7 +32,7 @@ const bestSellerProducts = [
     name: "Conjunto Nossa Senhora das Graças Azul",
     price: 45.5,
     sales: 65,
-    image: "/public/images/conjunto-nossa-senhora-azul-400px.jpg",
+    image: "/images/conjunto-nossa-senhora-azul-400px.jpg",
     href: "/produtos/conjunto-nossa-senhora-azul",
   },
   {
@@ -40,7 +40,7 @@ const bestSellerProducts = [
     name: "Terço São Miguel Arcanjo em Madeira",
     price: 110.0,
     sales: 58,
-    image: "/public/images/terco-sao-miguel-arcanjo-400px.jpg",
+    image: "/images/terco-sao-miguel-arcanjo-400px.jpg",
     href: "/produtos/terco-sao-miguel-arcanjo",
   },
 ]

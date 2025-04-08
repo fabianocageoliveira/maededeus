@@ -21,7 +21,7 @@ export const products = {
     categories: ["imagens", "decoracao"],
     collections: ["sagrada-familia"],
     images: [
-      "https://maededeus.vercel.app/public/imagem-sagrada-familia-dourada.jpg",
+      "/imagem-sagrada-familia-dourada.jpg",
       "https://maededeus.vercel.app/public/imagem-sagrada-familia-dourada.jpg",
     ],
     features: [
@@ -53,7 +53,7 @@ export const products = {
     categories: ["imagens", "decoracao"],
     collections: ["nossa-senhora", "espirito-santo"],
     images: [
-      "https://maededeus.vercel.app/public/images/conjunto-nossa-senhora-azul.jpg",
+      "/images/conjunto-nossa-senhora-azul.jpg",
       "https://maededeus.vercel.app/public/images/conjunto-nossa-senhora-azul.jpg",
     ],
     features: [
@@ -85,7 +85,7 @@ export const products = {
     categories: ["utilidades", "presentes"],
     collections: ["canecas"],
     images: [
-      "https://maededeus.vercel.app/public/images/caneca-voce-e-luz.jpg",
+      "/images/caneca-voce-e-luz.jpg",
       "https://maededeus.vercel.app/public/images/caneca-voce-e-luz.jpg",
     ],
     features: [
@@ -117,7 +117,7 @@ export const products = {
     categories: ["decoracao", "divino-espirito-santo"],
     collections: ["divino-espirito-santo"],
     images: [
-      "https://maededeus.vercel.app/public/images/divino-espirito-santo-mandala.jpg",
+      "/images/divino-espirito-santo-mandala.jpg",
       "https://maededeus.vercel.app/public/images/divino-espirito-santo-mandala.jpg",
     ],
     features: [
@@ -149,7 +149,7 @@ export const products = {
     categories: ["decoracao", "anjos"],
     collections: ["anjos"],
     images: [
-      "https://maededeus.vercel.app/public/images/conjunto-anjos-decorativos.jpg",
+      "/images/conjunto-anjos.jpg",
       "https://maededeus.vercel.app/public/images/conjunto-anjos-decorativos.jpg",
     ],
     features: [
@@ -181,7 +181,7 @@ export const products = {
     categories: ["decoracao", "luminarias"],
     collections: ["nossa-senhora"],
     images: [
-      "https://maededeus.vercel.app/public/images/nossa-senhora-luminaria.jpg",
+      "/images/nossa-senhora-luminaria.jpg",
       "https://maededeus.vercel.app/public/images/nossa-senhora-luminaria.jpg",
     ],
     features: [
@@ -213,7 +213,7 @@ export const products = {
     categories: ["tercos"],
     collections: ["sao-miguel"],
     images: [
-      "https://maededeus.vercel.app/public/images/terco-sao-miguel-arcanjo.jpg",
+      "/images/terco-sao-miguel-arcanjo.jpg",
       "https://maededeus.vercel.app/public/images/terco-sao-miguel-arcanjo.jpg",
     ],
     features: [
@@ -245,7 +245,7 @@ export const products = {
     categories: ["decoracao", "cruzes"],
     collections: ["cruzes"],
     images: [
-      "https://maededeus.vercel.app/public/images/cruz-face-de-cristo.jpg",
+      "/images/cruz-face-cristo.jpg",
       "https://maededeus.vercel.app/public/images/cruz-face-de-cristo.jpg",
     ],
     features: [
